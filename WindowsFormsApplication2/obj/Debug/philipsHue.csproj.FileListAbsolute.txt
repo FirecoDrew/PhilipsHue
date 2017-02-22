@@ -1,1 +1,15 @@
 G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\philipsHue.csprojResolveAssemblyReference.cache
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.onOffForm.resources
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\philipsHue.csproj.GenerateResource.Cache
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+G:\Github\PhilipsHue\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+G:\Github\PhilipsHue\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
